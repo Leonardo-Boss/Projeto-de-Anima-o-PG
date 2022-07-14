@@ -366,7 +366,7 @@
         A 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/A.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/A.pli"
         </path>
         
       </level>
@@ -374,7 +374,7 @@
         B 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/B.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/B.pli"
         </path>
         
       </level>
@@ -382,7 +382,7 @@
         head 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/head.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/head.pli"
         </path>
         
       </level>
@@ -390,7 +390,7 @@
         hair 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/hair.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/hair.pli"
         </path>
         
       </level>
@@ -398,7 +398,7 @@
         body 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/body.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/body.pli"
         </path>
         
       </level>
@@ -406,7 +406,7 @@
         R_arm 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_arm.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_arm.pli"
         </path>
         
       </level>
@@ -414,7 +414,7 @@
         R_forearm 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_forearm.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_forearm.pli"
         </path>
         
       </level>
@@ -422,7 +422,7 @@
         C 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/C.tlv"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/C.tlv"
         </path>
         
       </level>
@@ -430,7 +430,7 @@
         R_thigh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_thigh.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_thigh.pli"
         </path>
         
       </level>
@@ -438,7 +438,7 @@
         R_leg 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_leg.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_leg.pli"
         </path>
         
       </level>
@@ -446,7 +446,7 @@
         L_leg 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_leg.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_leg.pli"
         </path>
         
       </level>
@@ -454,7 +454,7 @@
         L_thigh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_thigh.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_thigh.pli"
         </path>
         
       </level>
@@ -462,7 +462,7 @@
         L_arm 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_arm.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_arm.pli"
         </path>
         
       </level>
@@ -470,7 +470,7 @@
         L_forearm 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_forearm.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_forearm.pli"
         </path>
         
       </level>
@@ -478,7 +478,7 @@
         R_foot 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_foot.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_foot.pli"
         </path>
         
       </level>
@@ -486,7 +486,7 @@
         L_foot 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_foot.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_foot.pli"
         </path>
         
       </level>
@@ -494,7 +494,7 @@
         L_arm_mesh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_arm..mesh"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_arm..mesh"
         </path>
         
       </level>
@@ -502,7 +502,7 @@
         L_forearm_mesh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_forearm..mesh"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_forearm..mesh"
         </path>
         
       </level>
@@ -510,7 +510,7 @@
         L_leg_mesh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_leg..mesh"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_leg..mesh"
         </path>
         
       </level>
@@ -518,7 +518,7 @@
         R_leg_mesh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_leg..mesh"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_leg..mesh"
         </path>
         
       </level>
@@ -526,7 +526,7 @@
         R_forearm_mesh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_forearm..mesh"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_forearm..mesh"
         </path>
         
       </level>
@@ -6181,6 +6181,22 @@
         </path>
         
       </soundLevel>
+      <level id='185'>
+        D 
+        <info dpiType="image"/>
+        <path>
+          "+drawings/D.pli"
+        </path>
+        
+      </level>
+      <level id='186'>
+        preto 
+        <info dpiType="image"/>
+        <path>
+          "+extras/preto..tif"
+        </path>
+        
+      </level>
       
     </levels>
     <folder name="Cast" type="default">
@@ -6190,7 +6206,7 @@
         </levels>
         </folder>
       <levels>
-        <level id='1'/><childLevel id='68'/><childLevel id='140'/><childLevel id='104'/><level id='178'/><level id='179'/><level id='180'/><level id='181'/><level id='182'/>
+        <level id='186'/><level id='1'/><childLevel id='68'/><childLevel id='140'/><childLevel id='104'/><level id='178'/><level id='179'/><level id='180'/><level id='181'/><level id='182'/><level id='185'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -6201,7 +6217,7 @@
     </levelSet>
   <xsheet>
     <columns>
-      <levelColumn id='185'>
+      <levelColumn id='187'>
         
         <status>
           0 
@@ -6212,7 +6228,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='186'>
+          <Toonz_columnFx id='188'>
             
             <params>
               </params>
@@ -6239,7 +6255,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='187'>
+      <levelColumn id='189'>
         
         <status>
           0 
@@ -6316,7 +6332,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='188'>
+          <Toonz_columnFx id='190'>
             
             <params>
               </params>
@@ -6340,7 +6356,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='189'>
+      <levelColumn id='191'>
         
         <status>
           0 
@@ -6351,7 +6367,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='190'>
+          <Toonz_columnFx id='192'>
             
             <params>
               </params>
@@ -6378,7 +6394,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='191'>
+      <levelColumn id='193'>
         
         <status>
           0 
@@ -6389,7 +6405,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='192'>
+          <Toonz_columnFx id='194'>
             
             <params>
               </params>
@@ -6416,7 +6432,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='193'>
+      <levelColumn id='195'>
         
         <status>
           0 
@@ -6427,7 +6443,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='194'>
+          <Toonz_columnFx id='196'>
             
             <params>
               </params>
@@ -6454,13 +6470,48 @@
         </fx>
         
       </levelColumn>
-      <soundColumn id='195'>
+      <soundColumn id='197'>
         0.4 1 
         <SoundCells>
           0 0 0 <soundLevel id='183'/>
         </SoundCells>
         0 
       </soundColumn>
+      <levelColumn id='198'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            44 61 <level id='186'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='199'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
       
     </columns>
     <pegbars>
@@ -7049,6 +7100,37 @@
           1.234e+09 5.678e+09 
         </nodePos>
         </pegbar>
+      <pegbar id="Col7">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          1.234e+09 5.678e+09 
+        </nodePos>
+        </pegbar>
       <grid_dimension>
         1 
       </grid_dimension>
@@ -7056,7 +7138,7 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='186'/>
+          <Toonz_columnFx id='199'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='188'/>
@@ -7070,9 +7152,12 @@
         <fxnode>
           <Toonz_columnFx id='194'/>
         </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='196'/>
+        </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='196'>
+        <Toonz_xsheetFx id='200'>
           
           <params>
             </params>
@@ -7098,13 +7183,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='197'>
+        <Toonz_outputFx id='201'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='196'/>
+              <Toonz_xsheetFx id='200'/>
             </source>
             </ports>
           <dagNodePos>
@@ -7136,5 +7221,6 @@
     "| #1   14 Jul 22   14:17               eppi            |"
     "| #2   14 Jul 22   19:28               eppi            |"
     "| #3   14 Jul 22   19:33               eppi            |"
+    "| #4   14 Jul 22   19:46               eppi            |"
   </history>
   </tnz>
