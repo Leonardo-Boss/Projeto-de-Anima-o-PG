@@ -1,4 +1,4 @@
-<tnz framecount="223" version="71.1">
+<tnz framecount="20" version="71.1">
   <generator>
     "OpenToonz 1.6"
   </generator>
@@ -114,7 +114,7 @@
         </output>
       <output name="preview">
         <range>
-          0 222 
+          0 19 
         </range>
         <step>
           1 
@@ -4246,26 +4246,6 @@
         </name>
         
       </childLevel>
-      <soundLevel id='139'>
-        cena4 
-        <type>
-          sound 
-        </type>
-        <path>
-          "/home/eppi/Documents/UNICAMP/6 semestre/SI701 MULTIMIDIA/Projeto-de-Anima-o-PG/audios/audios por cena/cena4.wav"
-        </path>
-        
-      </soundLevel>
-      <soundLevel id='140'>
-        "madeira impacto"
-        <type>
-          sound 
-        </type>
-        <path>
-          "/home/eppi/Documents/UNICAMP/6 semestre/SI701 MULTIMIDIA/Projeto-de-Anima-o-PG/audios/soundeffect/madeira impacto.wav"
-        </path>
-        
-      </soundLevel>
       
     </levels>
     <folder name="Cast" type="default">
@@ -4279,13 +4259,45 @@
       </levels>
       </folder>
     <folder name="Audio">
-      <levels>
-        <soundLevel id='139'/><soundLevel id='140'/>
-      </levels>
       </folder>
     </levelSet>
   <xsheet>
     <columns>
+      <levelColumn id='139'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 20 <level id='56'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='140'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
       <levelColumn id='141'>
         
         <status>
@@ -4293,7 +4305,7 @@
         </status>
         <cells>
           <cell>
-            0 223 <level id='56'/>0001 0 
+            0 20 <level id='42'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -4304,7 +4316,7 @@
             <ports>
               </ports>
             <dagNodePos>
-              25005 24855 
+              25005 24655 
             </dagNodePos>
             <numberId>
               0 
@@ -4331,7 +4343,7 @@
         </status>
         <cells>
           <cell>
-            0 223 <level id='42'/>0001 0 
+            0 20 <level id='41'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -4369,7 +4381,7 @@
         </status>
         <cells>
           <cell>
-            0 223 <level id='41'/>0001 0 
+            0 20 <level id='53'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -4407,7 +4419,7 @@
         </status>
         <cells>
           <cell>
-            0 223 <level id='53'/>0001 0 
+            0 20 <level id='45'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -4445,7 +4457,7 @@
         </status>
         <cells>
           <cell>
-            0 223 <level id='45'/>0001 0 
+            0 20 <level id='51'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -4483,7 +4495,7 @@
         </status>
         <cells>
           <cell>
-            0 223 <level id='51'/>0001 0 
+            0 20 <level id='49'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -4521,125 +4533,11 @@
         </status>
         <cells>
           <cell>
-            0 223 <level id='49'/>0001 0 
+            0 20 <level id='52'/>0001 0 
           </cell>
           </cells>
         <fx>
           <Toonz_columnFx id='154'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <dagNodePos>
-              25005 24205 
-            </dagNodePos>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='155'>
-        
-        <status>
-          0 
-        </status>
-        <cells>
-          <cell>
-            0 223 <level id='52'/>0001 0 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='156'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <dagNodePos>
-              25005 24655 
-            </dagNodePos>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='157'>
-        
-        <status>
-          0 
-        </status>
-        <cells>
-          <cell>
-            0 223 <level id='40'/>0001 0 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='158'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <dagNodePos>
-              25005 24805 
-            </dagNodePos>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='159'>
-        
-        <status>
-          0 
-        </status>
-        <cells>
-          <cell>
-            0 223 <level id='44'/>0001 0 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='160'>
             
             <params>
               </params>
@@ -4666,18 +4564,56 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='161'>
+      <levelColumn id='155'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            0 223 <level id='46'/>0001 0 
+            0 20 <level id='40'/>0001 0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='162'>
+          <Toonz_columnFx id='156'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24855 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='157'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 20 <level id='44'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='158'>
             
             <params>
               </params>
@@ -4704,25 +4640,25 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='163'>
+      <levelColumn id='159'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            0 223 <level id='43'/>0001 0 
+            0 20 <level id='46'/>0001 0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='164'>
+          <Toonz_columnFx id='160'>
             
             <params>
               </params>
             <ports>
               </ports>
             <dagNodePos>
-              25005 24355 
+              25005 24805 
             </dagNodePos>
             <numberId>
               0 
@@ -4742,244 +4678,18 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='165'>
+      <levelColumn id='161'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            0 223 <level id='47'/>0001 0 
+            0 20 <level id='54'/>0001 0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='166'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <dagNodePos>
-              25005 24305 
-            </dagNodePos>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='167'>
-        
-        <status>
-          0 
-        </status>
-        <cells>
-          <cell>
-            0 15 <level id='39'/>0001 0 
-          </cell>
-          <cell>
-            15 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            19 5 <level id='39'/>0005 -1 
-          </cell>
-          <cell>
-            24 12 <level id='39'/>0001 0 
-          </cell>
-          <cell>
-            36 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            40 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            44 5 <level id='39'/>0001 1 
-          </cell>
-          <cell>
-            49 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            53 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            57 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            61 2 <level id='39'/>0002 -1 
-          </cell>
-          <cell>
-            63 8 <level id='39'/>0001 0 
-          </cell>
-          <cell>
-            71 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            75 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            79 2 <level id='39'/>0001 0 
-          </cell>
-          <cell>
-            81 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            85 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            89 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            93 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            97 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            101 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            105 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            109 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            113 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            117 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            121 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            125 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            129 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            133 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            137 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            141 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            145 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            149 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            153 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            157 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            161 3 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            164 2 <level id='39'/>0002 -1 
-          </cell>
-          <cell>
-            166 6 <level id='39'/>0001 0 
-          </cell>
-          <cell>
-            172 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            176 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            180 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            184 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            188 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            192 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            196 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            200 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            204 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            208 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            212 4 <level id='39'/>0002 1 
-          </cell>
-          <cell>
-            216 4 <level id='39'/>0004 -1 
-          </cell>
-          <cell>
-            220 3 <level id='39'/>0002 1 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='168'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <dagNodePos>
-              25005 24255 
-            </dagNodePos>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='169'>
-        
-        <status>
-          0 
-        </status>
-        <cells>
-          <cell>
-            0 223 <level id='54'/>0001 0 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='170'>
+          <Toonz_columnFx id='162'>
             
             <params>
               </params>
@@ -5006,18 +4716,18 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='171'>
+      <levelColumn id='163'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            0 223 <level id='48'/>0001 0 
+            0 20 <level id='48'/>0001 0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='172'>
+          <Toonz_columnFx id='164'>
             
             <params>
               </params>
@@ -5044,18 +4754,18 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='173'>
+      <levelColumn id='165'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            0 223 <level id='50'/>0001 0 
+            0 20 <level id='50'/>0001 0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='174'>
+          <Toonz_columnFx id='166'>
             
             <params>
               </params>
@@ -5082,20 +4792,129 @@
         </fx>
         
       </levelColumn>
-      <soundColumn id='175'>
-        0.4 1 
-        <SoundCells>
-          0 0 14 <soundLevel id='139'/>
-        </SoundCells>
-        0 
-      </soundColumn>
-      <soundColumn id='176'>
-        0.4 1 
-        <SoundCells>
-          0 0 10 <soundLevel id='140'/>
-        </SoundCells>
-        0 
-      </soundColumn>
+      <levelColumn id='167'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 20 <level id='43'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='168'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24355 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='169'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 20 <level id='47'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='170'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24305 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='171'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 5 <level id='39'/>0001 1 
+          </cell>
+          <cell>
+            5 5 <level id='39'/>0005 -1 
+          </cell>
+          <cell>
+            10 5 <level id='39'/>0001 1 
+          </cell>
+          <cell>
+            15 5 <level id='39'/>0005 -1 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='172'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24255 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
       
     </columns>
     <pegbars>
@@ -5203,7 +5022,7 @@
           </default>
           </sc>
         <nodePos>
-          24141.5 25457.5 
+          1.234e+09 5.678e+09 
         </nodePos>
         </pegbar>
       <pegbar id="Col2">
@@ -5224,19 +5043,7 @@
           </default>
           <keyframes>
             <L>
-              41 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
+              0 0 
             </L>
             </keyframes>
           </x>
@@ -5246,101 +5053,24 @@
           </default>
           <keyframes>
             <L>
-              41 0.10398 
-            </L>
-            <L>
-              <prev>
-                0.10398 
-              </prev>
-              70 0.10398 
-            </L>
-            <L>
-              <prev>
-                0.10398 
-              </prev>
-              101 0.10398 
+              0 0.10398 
             </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sc>
         <rot>
           <default>
@@ -5348,82 +5078,10 @@
           </default>
           <keyframes>
             <L>
-              41 -1.12536 
-            </L>
-            <L>
-              <prev>
-                18.9104 
-              </prev>
-              48 18.9104 
-            </L>
-            <L>
-              <prev>
-                52.7479 
-              </prev>
-              52 52.7479 
-            </L>
-            <L>
-              <prev>
-                52.7479 
-              </prev>
-              70 52.7479 
-            </L>
-            <L>
-              <prev>
-                52.7479 
-              </prev>
-              101 52.7479 
+              0 -1.12536 
             </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24517.5 25346.5 
         </nodePos>
@@ -5446,19 +5104,7 @@
           </default>
           <keyframes>
             <L>
-              41 -1.24063 
-            </L>
-            <L>
-              <prev>
-                -1.24063 
-              </prev>
-              70 -1.24063 
-            </L>
-            <L>
-              <prev>
-                -1.24063 
-              </prev>
-              101 -1.24063 
+              0 -1.24063 
             </L>
             </keyframes>
           </x>
@@ -5468,101 +5114,24 @@
           </default>
           <keyframes>
             <L>
-              41 0.0687233 
-            </L>
-            <L>
-              <prev>
-                0.0687233 
-              </prev>
-              70 0.0687233 
-            </L>
-            <L>
-              <prev>
-                0.0687233 
-              </prev>
-              101 0.0687233 
+              0 0.0687233 
             </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sc>
         <rot>
           <default>
@@ -5570,82 +5139,10 @@
           </default>
           <keyframes>
             <L>
-              41 8.26235 
-            </L>
-            <L>
-              <prev>
-                -18.6683 
-              </prev>
-              48 -18.6683 
-            </L>
-            <L>
-              <prev>
-                3.65783 
-              </prev>
-              52 3.65783 
-            </L>
-            <L>
-              <prev>
-                3.65783 
-              </prev>
-              70 3.65783 
-            </L>
-            <L>
-              <prev>
-                3.65783 
-              </prev>
-              101 3.65783 
+              0 8.26235 
             </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24680.5 25365.5 
         </nodePos>
@@ -5668,19 +5165,7 @@
           </default>
           <keyframes>
             <L>
-              41 -0.563032 
-            </L>
-            <L>
-              <prev>
-                -0.563032 
-              </prev>
-              70 -0.563032 
-            </L>
-            <L>
-              <prev>
-                -0.563032 
-              </prev>
-              101 -0.563032 
+              0 -0.563032 
             </L>
             </keyframes>
           </x>
@@ -5690,101 +5175,24 @@
           </default>
           <keyframes>
             <L>
-              41 -0.0331195 
-            </L>
-            <L>
-              <prev>
-                -0.0331195 
-              </prev>
-              70 -0.0331195 
-            </L>
-            <L>
-              <prev>
-                -0.0331195 
-              </prev>
-              101 -0.0331195 
+              0 -0.0331195 
             </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sc>
         <rot>
           <default>
@@ -5792,82 +5200,10 @@
           </default>
           <keyframes>
             <L>
-              41 3.49864 
-            </L>
-            <L>
-              <prev>
-                24.9797 
-              </prev>
-              48 24.9797 
-            </L>
-            <L>
-              <prev>
-                -9.6696 
-              </prev>
-              52 -9.6696 
-            </L>
-            <L>
-              <prev>
-                -9.6696 
-              </prev>
-              70 -9.6696 
-            </L>
-            <L>
-              <prev>
-                -9.6696 
-              </prev>
-              101 -9.6696 
+              0 3.49864 
             </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24841.5 25398.5 
         </nodePos>
@@ -5892,30 +5228,6 @@
             <L>
               0 -1.88578 
             </L>
-            <L>
-              <prev>
-                -1.88578 
-              </prev>
-              70 -1.88578 
-            </L>
-            <L>
-              <prev>
-                -1.88578 
-              </prev>
-              101 -1.88578 
-            </L>
-            <L>
-              <prev>
-                -1.88578 
-              </prev>
-              131 -1.88578 
-            </L>
-            <L>
-              <prev>
-                -1.88578 
-              </prev>
-              175 -1.88578 
-            </L>
             </keyframes>
           </x>
         <y>
@@ -5926,171 +5238,22 @@
             <L>
               0 -0.0933554 
             </L>
-            <L>
-              <prev>
-                -0.0933554 
-              </prev>
-              70 -0.0933554 
-            </L>
-            <L>
-              <prev>
-                -0.0933554 
-              </prev>
-              101 -0.0933554 
-            </L>
-            <L>
-              <prev>
-                -0.0933554 
-              </prev>
-              131 -0.0933554 
-            </L>
-            <L>
-              <prev>
-                -0.0933554 
-              </prev>
-              175 -0.0933554 
-            </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
           </sc>
         <rot>
           <default>
@@ -6100,170 +5263,8 @@
             <L>
               0 -44.7281 
             </L>
-            <L>
-              <prev>
-                -128.776 
-              </prev>
-              8 -128.776 
-            </L>
-            <L>
-              <prev>
-                -22.2024 
-              </prev>
-              11 -22.2024 
-            </L>
-            <L>
-              <prev>
-                -22.2024 
-              </prev>
-              41 -22.2024 
-            </L>
-            <L>
-              <prev>
-                5.89405 
-              </prev>
-              48 5.89405 
-            </L>
-            <L>
-              <prev>
-                64.6399 
-              </prev>
-              55 64.6399 
-            </L>
-            <L>
-              <prev>
-                64.6399 
-              </prev>
-              70 64.6399 
-            </L>
-            <L>
-              <prev>
-                41.7498 
-              </prev>
-              74 41.7498 
-            </L>
-            <L>
-              <prev>
-                41.7498 
-              </prev>
-              101 41.7498 
-            </L>
-            <L>
-              <prev>
-                29.1401 
-              </prev>
-              105 29.1401 
-            </L>
-            <L>
-              <prev>
-                29.1401 
-              </prev>
-              131 29.1401 
-            </L>
-            <L>
-              <prev>
-                9.991 
-              </prev>
-              137 9.991 
-            </L>
-            <L>
-              <prev>
-                9.991 
-              </prev>
-              175 9.991 
-            </L>
-            <L>
-              <prev>
-                68.1202 
-              </prev>
-              181 68.1202 
-            </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24520.8 25272.5 
         </nodePos>
@@ -6288,30 +5289,6 @@
             <L>
               0 -1.12027 
             </L>
-            <L>
-              <prev>
-                -1.12027 
-              </prev>
-              70 -1.12027 
-            </L>
-            <L>
-              <prev>
-                -1.12027 
-              </prev>
-              101 -1.12027 
-            </L>
-            <L>
-              <prev>
-                -1.12027 
-              </prev>
-              131 -1.12027 
-            </L>
-            <L>
-              <prev>
-                -1.12027 
-              </prev>
-              175 -1.12027 
-            </L>
             </keyframes>
           </x>
         <y>
@@ -6322,171 +5299,22 @@
             <L>
               0 0.0186711 
             </L>
-            <L>
-              <prev>
-                0.0186711 
-              </prev>
-              70 0.0186711 
-            </L>
-            <L>
-              <prev>
-                0.0186711 
-              </prev>
-              101 0.0186711 
-            </L>
-            <L>
-              <prev>
-                0.0186711 
-              </prev>
-              131 0.0186711 
-            </L>
-            <L>
-              <prev>
-                0.0186711 
-              </prev>
-              175 0.0186711 
-            </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
           </sc>
         <rot>
           <default>
@@ -6496,170 +5324,8 @@
             <L>
               0 16.7895 
             </L>
-            <L>
-              <prev>
-                16.7392 
-              </prev>
-              8 16.7392 
-            </L>
-            <L>
-              <prev>
-                -0.18736 
-              </prev>
-              11 -0.18736 
-            </L>
-            <L>
-              <prev>
-                -0.18736 
-              </prev>
-              41 -0.18736 
-            </L>
-            <L>
-              <prev>
-                -8.74266 
-              </prev>
-              48 -8.74266 
-            </L>
-            <L>
-              <prev>
-                -7.74855 
-              </prev>
-              55 -7.74855 
-            </L>
-            <L>
-              <prev>
-                -7.74855 
-              </prev>
-              70 -7.74855 
-            </L>
-            <L>
-              <prev>
-                -12.773 
-              </prev>
-              74 -12.773 
-            </L>
-            <L>
-              <prev>
-                -12.773 
-              </prev>
-              101 -12.773 
-            </L>
-            <L>
-              <prev>
-                -15.1173 
-              </prev>
-              105 -15.1173 
-            </L>
-            <L>
-              <prev>
-                -15.1173 
-              </prev>
-              131 -15.1173 
-            </L>
-            <L>
-              <prev>
-                -14.7377 
-              </prev>
-              137 -14.7377 
-            </L>
-            <L>
-              <prev>
-                -14.7377 
-              </prev>
-              175 -14.7377 
-            </L>
-            <L>
-              <prev>
-                2.60257 
-              </prev>
-              181 2.60257 
-            </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24688.6 25279.3 
         </nodePos>
@@ -6682,25 +5348,7 @@
           </default>
           <keyframes>
             <L>
-              70 -0.0560133 
-            </L>
-            <L>
-              <prev>
-                -0.0560133 
-              </prev>
-              101 -0.0560133 
-            </L>
-            <L>
-              <prev>
-                -0.0560133 
-              </prev>
-              131 -0.0560133 
-            </L>
-            <L>
-              <prev>
-                -0.0560133 
-              </prev>
-              175 -0.0560133 
+              0 -0.0560133 
             </L>
             </keyframes>
           </x>
@@ -6710,167 +5358,24 @@
           </default>
           <keyframes>
             <L>
-              70 -1.62438 
-            </L>
-            <L>
-              <prev>
-                -1.62438 
-              </prev>
-              101 -1.62438 
-            </L>
-            <L>
-              <prev>
-                -1.62438 
-              </prev>
-              131 -1.62438 
-            </L>
-            <L>
-              <prev>
-                -1.62438 
-              </prev>
-              175 -1.62438 
+              0 -1.62438 
             </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
           </sc>
         <rot>
           <default>
@@ -6878,166 +5383,10 @@
           </default>
           <keyframes>
             <L>
-              8 -145.348 
-            </L>
-            <L>
-              <prev>
-                -185.856 
-              </prev>
-              11 -185.856 
-            </L>
-            <L>
-              <prev>
-                -185.856 
-              </prev>
-              41 -185.856 
-            </L>
-            <L>
-              <prev>
-                -203.697 
-              </prev>
-              48 -203.697 
-            </L>
-            <L>
-              <prev>
-                -228.611 
-              </prev>
-              55 -228.611 
-            </L>
-            <L>
-              <prev>
-                -228.611 
-              </prev>
-              70 -228.611 
-            </L>
-            <L>
-              <prev>
-                -216.183 
-              </prev>
-              74 -216.183 
-            </L>
-            <L>
-              <prev>
-                -216.183 
-              </prev>
-              101 -216.183 
-            </L>
-            <L>
-              <prev>
-                -211.605 
-              </prev>
-              105 -211.605 
-            </L>
-            <L>
-              <prev>
-                -211.605 
-              </prev>
-              131 -211.605 
-            </L>
-            <L>
-              <prev>
-                -203.806 
-              </prev>
-              137 -203.806 
-            </L>
-            <L>
-              <prev>
-                -203.806 
-              </prev>
-              175 -203.806 
-            </L>
-            <L>
-              <prev>
-                -218.704 
-              </prev>
-              181 -218.704 
+              0 -187.061 
             </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24840.5 25313.5 
         </nodePos>
@@ -7060,31 +5409,7 @@
           </default>
           <keyframes>
             <L>
-              44 8.36746 
-            </L>
-            <L>
-              <prev>
-                8.4094 
-              </prev>
-              48 8.4094 
-            </L>
-            <L>
-              <prev>
-                8.81484 
-              </prev>
-              53 8.81484 
-            </L>
-            <L>
-              <prev>
-                8.81484 
-              </prev>
-              70 8.81484 
-            </L>
-            <L>
-              <prev>
-                8.81484 
-              </prev>
-              101 8.81484 
+              0 8.36746 
             </L>
             </keyframes>
           </x>
@@ -7094,143 +5419,24 @@
           </default>
           <keyframes>
             <L>
-              44 -0.30759 
-            </L>
-            <L>
-              <prev>
-                0.125812 
-              </prev>
-              48 0.125812 
-            </L>
-            <L>
-              <prev>
-                -0.237686 
-              </prev>
-              53 -0.237686 
-            </L>
-            <L>
-              <prev>
-                -0.237686 
-              </prev>
-              70 -0.237686 
-            </L>
-            <L>
-              <prev>
-                -0.237686 
-              </prev>
-              101 -0.237686 
+              0 -0.30759 
             </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              44 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              44 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              44 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              44 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              44 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sc>
         <rot>
           <default>
@@ -7238,94 +5444,10 @@
           </default>
           <keyframes>
             <L>
-              44 -359.041 
-            </L>
-            <L>
-              <prev>
-                -409.724 
-              </prev>
-              53 -409.724 
-            </L>
-            <L>
-              <prev>
-                -409.724 
-              </prev>
-              70 -409.724 
-            </L>
-            <L>
-              <prev>
-                -409.724 
-              </prev>
-              101 -409.724 
+              0 -359.041 
             </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              44 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              44 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              44 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24315 25216.5 
         </nodePos>
@@ -7348,25 +5470,7 @@
           </default>
           <keyframes>
             <L>
-              41 -0.331195 
-            </L>
-            <L>
-              <prev>
-                -0.331195 
-              </prev>
-              70 -0.331195 
-            </L>
-            <L>
-              <prev>
-                -0.331195 
-              </prev>
-              101 -0.331195 
-            </L>
-            <L>
-              <prev>
-                -0.331195 
-              </prev>
-              143 -0.331195 
+              0 -0.331195 
             </L>
             </keyframes>
           </x>
@@ -7376,137 +5480,24 @@
           </default>
           <keyframes>
             <L>
-              41 -0.142491 
-            </L>
-            <L>
-              <prev>
-                -0.142491 
-              </prev>
-              70 -0.142491 
-            </L>
-            <L>
-              <prev>
-                -0.142491 
-              </prev>
-              101 -0.142491 
-            </L>
-            <L>
-              <prev>
-                -0.142491 
-              </prev>
-              143 -0.142491 
+              0 -0.142491 
             </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              143 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              143 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              143 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              143 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              143 1 
-            </L>
-            </keyframes>
           </sc>
         <rot>
           <default>
@@ -7514,112 +5505,10 @@
           </default>
           <keyframes>
             <L>
-              41 11.2383 
-            </L>
-            <L>
-              <prev>
-                36.5105 
-              </prev>
-              48 36.5105 
-            </L>
-            <L>
-              <prev>
-                65.0377 
-              </prev>
-              53 65.0377 
-            </L>
-            <L>
-              <prev>
-                65.0377 
-              </prev>
-              70 65.0377 
-            </L>
-            <L>
-              <prev>
-                65.0377 
-              </prev>
-              101 65.0377 
-            </L>
-            <L>
-              <prev>
-                55.1085 
-              </prev>
-              137 55.1085 
-            </L>
-            <L>
-              <prev>
-                55.1085 
-              </prev>
-              143 55.1085 
+              0 11.2383 
             </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              143 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              143 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              143 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24521.9 25504.9 
         </nodePos>
@@ -7642,19 +5531,7 @@
           </default>
           <keyframes>
             <L>
-              41 -0.562819 
-            </L>
-            <L>
-              <prev>
-                -0.562819 
-              </prev>
-              70 -0.562819 
-            </L>
-            <L>
-              <prev>
-                -0.562819 
-              </prev>
-              101 -0.562819 
+              0 -0.562819 
             </L>
             </keyframes>
           </x>
@@ -7664,101 +5541,24 @@
           </default>
           <keyframes>
             <L>
-              41 0.0365683 
-            </L>
-            <L>
-              <prev>
-                0.0365683 
-              </prev>
-              70 0.0365683 
-            </L>
-            <L>
-              <prev>
-                0.0365683 
-              </prev>
-              101 0.0365683 
+              0 0.0365683 
             </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sc>
         <rot>
           <default>
@@ -7766,82 +5566,10 @@
           </default>
           <keyframes>
             <L>
-              41 -3.81129 
-            </L>
-            <L>
-              <prev>
-                22.3424 
-              </prev>
-              48 22.3424 
-            </L>
-            <L>
-              <prev>
-                -2.28932 
-              </prev>
-              53 -2.28932 
-            </L>
-            <L>
-              <prev>
-                -2.28932 
-              </prev>
-              70 -2.28932 
-            </L>
-            <L>
-              <prev>
-                -2.28932 
-              </prev>
-              101 -2.28932 
+              0 -3.81129 
             </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24840 25591.5 
         </nodePos>
@@ -7864,19 +5592,7 @@
           </default>
           <keyframes>
             <L>
-              41 -1.24186 
-            </L>
-            <L>
-              <prev>
-                -1.24186 
-              </prev>
-              70 -1.24186 
-            </L>
-            <L>
-              <prev>
-                -1.24186 
-              </prev>
-              101 -1.24186 
+              0 -1.24186 
             </L>
             </keyframes>
           </x>
@@ -7886,101 +5602,24 @@
           </default>
           <keyframes>
             <L>
-              41 0.0241684 
-            </L>
-            <L>
-              <prev>
-                0.0241684 
-              </prev>
-              70 0.0241684 
-            </L>
-            <L>
-              <prev>
-                0.0241684 
-              </prev>
-              101 0.0241684 
+              0 0.0241684 
             </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sc>
         <rot>
           <default>
@@ -7988,93 +5627,198 @@
           </default>
           <keyframes>
             <L>
-              41 11.2542 
-            </L>
-            <L>
-              <prev>
-                -39.736 
-              </prev>
-              48 -39.736 
-            </L>
-            <L>
-              <prev>
-                4.93623 
-              </prev>
-              53 4.93623 
-            </L>
-            <L>
-              <prev>
-                4.93623 
-              </prev>
-              70 4.93623 
-            </L>
-            <L>
-              <prev>
-                4.93623 
-              </prev>
-              101 4.93623 
-            </L>
-            <L>
-              <prev>
-                20.5921 
-              </prev>
-              137 20.5921 
+              0 11.2542 
             </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24689.4 25528.8 
         </nodePos>
         </pegbar>
       <pegbar id="Col12">
+        <parent handle="B" id="Col8" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          -3.42212 0.190934 3.42212 -0.190934 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -1.3389 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0.10147 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <rot>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.697533 
+            </L>
+            </keyframes>
+          </rot>
+        <nodePos>
+          24523.6 25431.4 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col13">
+        <parent handle="B" id="Col12" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          -3.38812 -0.535289 3.2954 0.581201 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.173059 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0.0223206 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <rot>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -64.6206 
+            </L>
+            </keyframes>
+          </rot>
+        <nodePos>
+          24691.8 25460 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col14">
+        <parent handle="B" id="Col13" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          -3.22089 -1.38941 3.22089 1.38941 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.224053 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0.0933554 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <rot>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -31.4616 
+            </L>
+            </keyframes>
+          </rot>
+        <nodePos>
+          24845.1 25499.6 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col15">
         <parent handle="B" id="Col8" parentHandle="B">
           </parent>
         <isOpened>
@@ -8092,25 +5836,7 @@
           </default>
           <keyframes>
             <L>
-              41 -1.87996 
-            </L>
-            <L>
-              <prev>
-                -1.87996 
-              </prev>
-              70 -1.87996 
-            </L>
-            <L>
-              <prev>
-                -1.87996 
-              </prev>
-              101 -1.87996 
-            </L>
-            <L>
-              <prev>
-                -1.87996 
-              </prev>
-              131 -1.87996 
+              0 -1.87996 
             </L>
             </keyframes>
           </x>
@@ -8120,115 +5846,19 @@
           </default>
           <keyframes>
             <L>
-              41 0.323118 
-            </L>
-            <L>
-              <prev>
-                0.323118 
-              </prev>
-              70 0.323118 
-            </L>
-            <L>
-              <prev>
-                0.323118 
-              </prev>
-              101 0.323118 
-            </L>
-            <L>
-              <prev>
-                0.323118 
-              </prev>
-              131 0.323118 
+              0 0.323118 
             </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
@@ -8236,25 +5866,7 @@
           </default>
           <keyframes>
             <L>
-              41 0.7555 
-            </L>
-            <L>
-              <prev>
-                0.7555 
-              </prev>
-              70 0.7555 
-            </L>
-            <L>
-              <prev>
-                0.7555 
-              </prev>
-              101 0.7555 
-            </L>
-            <L>
-              <prev>
-                0.7555 
-              </prev>
-              131 0.7555 
+              0 0.7555 
             </L>
             </keyframes>
           </sc>
@@ -8264,136 +5876,16 @@
           </default>
           <keyframes>
             <L>
-              41 -3.55574 
-            </L>
-            <L>
-              <prev>
-                20.8177 
-              </prev>
-              48 20.8177 
-            </L>
-            <L>
-              <prev>
-                11.9211 
-              </prev>
-              50 11.9211 
-            </L>
-            <L>
-              <prev>
-                33.2678 
-              </prev>
-              53 33.2678 
-            </L>
-            <L>
-              <prev>
-                33.2678 
-              </prev>
-              70 33.2678 
-            </L>
-            <L>
-              <prev>
-                48.638 
-              </prev>
-              74 48.638 
-            </L>
-            <L>
-              <prev>
-                48.638 
-              </prev>
-              101 48.638 
-            </L>
-            <L>
-              <prev>
-                48.638 
-              </prev>
-              131 48.638 
-            </L>
-            <L>
-              <prev>
-                61.9541 
-              </prev>
-              137 61.9541 
-            </L>
-            <L>
-              <prev>
-                43.5403 
-              </prev>
-              143 43.5403 
+              0 -3.55574 
             </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24458.3 25092.7 
         </nodePos>
         </pegbar>
-      <pegbar id="Col13">
-        <parent handle="B" id="Col12" parentHandle="B">
+      <pegbar id="Col16">
+        <parent handle="B" id="Col15" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -8412,18 +5904,6 @@
             <L>
               0 0.56528 
             </L>
-            <L>
-              <prev>
-                0.56528 
-              </prev>
-              70 0.56528 
-            </L>
-            <L>
-              <prev>
-                0.56528 
-              </prev>
-              101 0.56528 
-            </L>
             </keyframes>
           </x>
         <y>
@@ -8434,170 +5914,29 @@
             <L>
               0 0.0854282 
             </L>
-            <L>
-              <prev>
-                0.0854282 
-              </prev>
-              70 0.0854282 
-            </L>
-            <L>
-              <prev>
-                0.0854282 
-              </prev>
-              101 0.0854282 
-            </L>
             </keyframes>
           </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </so>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            </keyframes>
           </sc>
-        <rot>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
           24686.2 25018.4 
         </nodePos>
         </pegbar>
-      <pegbar id="Col14">
-        <parent handle="B" id="Col12" parentHandle="B">
+      <pegbar id="Col17">
+        <parent handle="B" id="Col15" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -8614,7 +5953,7 @@
           </default>
           <keyframes>
             <L>
-              0 -6.64568 
+              0 -6.7125 
             </L>
             </keyframes>
           </x>
@@ -8624,7 +5963,7 @@
           </default>
           <keyframes>
             <L>
-              0 0.119809 
+              0 0.0914643 
             </L>
             </keyframes>
           </y>
@@ -8648,1276 +5987,18 @@
             1 
           </default>
           </sc>
-        <nodePos>
-          24576.2 25199 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col15">
-        <parent handle="B" id="Col8" parentHandle="B">
-          </parent>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          -3.42212 0.190934 3.42212 -0.190934 
-        </center>
-        <status>
-          0 
-        </status>
-        <x>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 -1.3389 
-            </L>
-            <L>
-              <prev>
-                -1.3389 
-              </prev>
-              70 -1.3389 
-            </L>
-            <L>
-              <prev>
-                -1.3389 
-              </prev>
-              101 -1.3389 
-            </L>
-            <L>
-              <prev>
-                -1.3389 
-              </prev>
-              131 -1.3389 
-            </L>
-            <L>
-              <prev>
-                -1.3389 
-              </prev>
-              175 -1.3389 
-            </L>
-            </keyframes>
-          </x>
-        <y>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 0.10147 
-            </L>
-            <L>
-              <prev>
-                0.10147 
-              </prev>
-              70 0.10147 
-            </L>
-            <L>
-              <prev>
-                0.10147 
-              </prev>
-              101 0.10147 
-            </L>
-            <L>
-              <prev>
-                0.10147 
-              </prev>
-              131 0.10147 
-            </L>
-            <L>
-              <prev>
-                0.10147 
-              </prev>
-              175 0.10147 
-            </L>
-            </keyframes>
-          </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </so>
-        <sx>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
-          </sc>
         <rot>
           <default>
             0 
           </default>
           <keyframes>
             <L>
-              0 -0.697533 
-            </L>
-            <L>
-              <prev>
-                -153.394 
-              </prev>
-              8 -153.394 
-            </L>
-            <L>
-              <prev>
-                -26.3914 
-              </prev>
-              11 -26.3914 
-            </L>
-            <L>
-              <prev>
-                -26.3914 
-              </prev>
-              41 -26.3914 
-            </L>
-            <L>
-              <prev>
-                1.90352 
-              </prev>
-              48 1.90352 
-            </L>
-            <L>
-              <prev>
-                -17.6199 
-              </prev>
-              51 -17.6199 
-            </L>
-            <L>
-              <prev>
-                -0.352243 
-              </prev>
-              54 -0.352243 
-            </L>
-            <L>
-              <prev>
-                -0.352243 
-              </prev>
-              70 -0.352243 
-            </L>
-            <L>
-              <prev>
-                46.6453 
-              </prev>
-              74 46.6453 
-            </L>
-            <L>
-              <prev>
-                46.6453 
-              </prev>
-              101 46.6453 
-            </L>
-            <L>
-              <prev>
-                60.5974 
-              </prev>
-              105 60.5974 
-            </L>
-            <L>
-              <prev>
-                60.5974 
-              </prev>
-              131 60.5974 
-            </L>
-            <L>
-              <prev>
-                48.2404 
-              </prev>
-              137 48.2404 
-            </L>
-            <L>
-              <prev>
-                48.2404 
-              </prev>
-              175 48.2404 
-            </L>
-            <L>
-              <prev>
-                76.0509 
-              </prev>
-              181 76.0509 
+              0 -708.11 
             </L>
             </keyframes>
           </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shy>
         <nodePos>
-          24523.6 25431.4 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col16">
-        <parent handle="B" id="Col15" parentHandle="B">
-          </parent>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          -3.38812 -0.535289 3.2954 0.581201 
-        </center>
-        <status>
-          0 
-        </status>
-        <x>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 -0.173059 
-            </L>
-            <L>
-              <prev>
-                -0.173059 
-              </prev>
-              70 -0.173059 
-            </L>
-            <L>
-              <prev>
-                -0.173059 
-              </prev>
-              101 -0.173059 
-            </L>
-            <L>
-              <prev>
-                -0.173059 
-              </prev>
-              131 -0.173059 
-            </L>
-            <L>
-              <prev>
-                -0.173059 
-              </prev>
-              175 -0.173059 
-            </L>
-            </keyframes>
-          </x>
-        <y>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 0.0223206 
-            </L>
-            <L>
-              <prev>
-                0.0223206 
-              </prev>
-              70 0.0223206 
-            </L>
-            <L>
-              <prev>
-                0.0223206 
-              </prev>
-              101 0.0223206 
-            </L>
-            <L>
-              <prev>
-                0.0223206 
-              </prev>
-              131 0.0223206 
-            </L>
-            <L>
-              <prev>
-                0.0223206 
-              </prev>
-              175 0.0223206 
-            </L>
-            </keyframes>
-          </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </so>
-        <sx>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
-          </sc>
-        <rot>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 -64.6206 
-            </L>
-            <L>
-              <prev>
-                -48.4813 
-              </prev>
-              8 -48.4813 
-            </L>
-            <L>
-              <prev>
-                -45.8894 
-              </prev>
-              11 -45.8894 
-            </L>
-            <L>
-              <prev>
-                -45.8894 
-              </prev>
-              41 -45.8894 
-            </L>
-            <L>
-              <prev>
-                -48.0083 
-              </prev>
-              48 -48.0083 
-            </L>
-            <L>
-              <prev>
-                -50.3598 
-              </prev>
-              51 -50.3598 
-            </L>
-            <L>
-              <prev>
-                -85.1253 
-              </prev>
-              54 -85.1253 
-            </L>
-            <L>
-              <prev>
-                -85.1253 
-              </prev>
-              70 -85.1253 
-            </L>
-            <L>
-              <prev>
-                -39.1729 
-              </prev>
-              74 -39.1729 
-            </L>
-            <L>
-              <prev>
-                -39.1729 
-              </prev>
-              101 -39.1729 
-            </L>
-            <L>
-              <prev>
-                -87.922 
-              </prev>
-              105 -87.922 
-            </L>
-            <L>
-              <prev>
-                -87.922 
-              </prev>
-              131 -87.922 
-            </L>
-            <L>
-              <prev>
-                -52.8708 
-              </prev>
-              137 -52.8708 
-            </L>
-            <L>
-              <prev>
-                -52.8708 
-              </prev>
-              175 -52.8708 
-            </L>
-            <L>
-              <prev>
-                -34.4317 
-              </prev>
-              181 -34.4317 
-            </L>
-            </keyframes>
-          </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shy>
-        <nodePos>
-          24691.8 25460 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col17">
-        <parent handle="B" id="Col16" parentHandle="B">
-          </parent>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          -3.22089 -1.38941 3.22089 1.38941 
-        </center>
-        <status>
-          0 
-        </status>
-        <x>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 -0.224053 
-            </L>
-            <L>
-              <prev>
-                -0.224053 
-              </prev>
-              70 -0.224053 
-            </L>
-            <L>
-              <prev>
-                -0.224053 
-              </prev>
-              101 -0.224053 
-            </L>
-            <L>
-              <prev>
-                -0.224053 
-              </prev>
-              131 -0.224053 
-            </L>
-            <L>
-              <prev>
-                -0.224053 
-              </prev>
-              175 -0.224053 
-            </L>
-            </keyframes>
-          </x>
-        <y>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 0.0933554 
-            </L>
-            <L>
-              <prev>
-                0.0933554 
-              </prev>
-              70 0.0933554 
-            </L>
-            <L>
-              <prev>
-                0.0933554 
-              </prev>
-              101 0.0933554 
-            </L>
-            <L>
-              <prev>
-                0.0933554 
-              </prev>
-              131 0.0933554 
-            </L>
-            <L>
-              <prev>
-                0.0933554 
-              </prev>
-              175 0.0933554 
-            </L>
-            </keyframes>
-          </y>
-        <z>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </z>
-        <so>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </so>
-        <sx>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              70 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              101 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              131 1 
-            </L>
-            <L>
-              <prev>
-                1 
-              </prev>
-              175 1 
-            </L>
-            </keyframes>
-          </sc>
-        <rot>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 -31.4616 
-            </L>
-            <L>
-              <prev>
-                -17.9949 
-              </prev>
-              8 -17.9949 
-            </L>
-            <L>
-              <prev>
-                -24.7109 
-              </prev>
-              11 -24.7109 
-            </L>
-            <L>
-              <prev>
-                -24.7109 
-              </prev>
-              41 -24.7109 
-            </L>
-            <L>
-              <prev>
-                -65.0239 
-              </prev>
-              48 -65.0239 
-            </L>
-            <L>
-              <prev>
-                -64.3986 
-              </prev>
-              51 -64.3986 
-            </L>
-            <L>
-              <prev>
-                -83.6978 
-              </prev>
-              54 -83.6978 
-            </L>
-            <L>
-              <prev>
-                -83.6978 
-              </prev>
-              70 -83.6978 
-            </L>
-            <L>
-              <prev>
-                -50.4242 
-              </prev>
-              74 -50.4242 
-            </L>
-            <L>
-              <prev>
-                -50.4242 
-              </prev>
-              101 -50.4242 
-            </L>
-            <L>
-              <prev>
-                -74.8371 
-              </prev>
-              105 -74.8371 
-            </L>
-            <L>
-              <prev>
-                -74.8371 
-              </prev>
-              131 -74.8371 
-            </L>
-            <L>
-              <prev>
-                -60.2022 
-              </prev>
-              137 -60.2022 
-            </L>
-            <L>
-              <prev>
-                -60.2022 
-              </prev>
-              175 -60.2022 
-            </L>
-            <L>
-              <prev>
-                -55.8445 
-              </prev>
-              181 -55.8445 
-            </L>
-            </keyframes>
-          </rot>
-        <pos>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </pos>
-        <shx>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shx>
-        <shy>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              70 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              101 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              131 0 
-            </L>
-            <L>
-              <prev>
-                0 
-              </prev>
-              175 0 
-            </L>
-            </keyframes>
-          </shy>
-        <nodePos>
-          24845.1 25499.6 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col18">
-        <parent handle="B" id="Table" parentHandle="B">
-          </parent>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          0 0 0 0 
-        </center>
-        <status>
-          0 
-        </status>
-        <sx>
-          <default>
-            1 
-          </default>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          </sc>
-        <nodePos>
-          1.234e+09 5.678e+09 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col19">
-        <parent handle="B" id="Table" parentHandle="B">
-          </parent>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          0 0 0 0 
-        </center>
-        <status>
-          0 
-        </status>
-        <sx>
-          <default>
-            1 
-          </default>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          </sc>
-        <nodePos>
-          1.234e+09 5.678e+09 
+          24734.6 25161 
         </nodePos>
         </pegbar>
       <grid_dimension>
@@ -9927,10 +6008,13 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='142'/>
+          <Toonz_columnFx id='140'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='146'/>
+          <Toonz_columnFx id='144'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='152'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='154'/>
@@ -9942,7 +6026,7 @@
           <Toonz_columnFx id='158'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='160'/>
+          <Toonz_columnFx id='146'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='148'/>
@@ -9951,35 +6035,32 @@
           <Toonz_columnFx id='150'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='152'/>
+          <Toonz_columnFx id='162'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='170'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='166'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='162'/>
-        </fxnode>
-        <fxnode>
           <Toonz_columnFx id='172'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='174'/>
+          <Toonz_columnFx id='160'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='164'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='144'/>
+          <Toonz_columnFx id='166'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='168'/>
         </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='142'/>
+        </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='177'>
+        <Toonz_xsheetFx id='173'>
           
           <params>
             </params>
@@ -10005,13 +6086,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='178'>
+        <Toonz_outputFx id='174'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='177'/>
+              <Toonz_xsheetFx id='173'/>
             </source>
             </ports>
           <dagNodePos>
@@ -10049,6 +6130,5 @@
     "| #7   13 Jul 22   18:49               eppi            |"
     "| #8   13 Jul 22   21:40   DESKTOP-1C8DValdecir        |"
     "| #9   13 Jul 22   22:03   DESKTOP-1C8DValdecir        |"
-    "| #10  14 Jul 22   20:47               eppi            |"
   </history>
   </tnz>
