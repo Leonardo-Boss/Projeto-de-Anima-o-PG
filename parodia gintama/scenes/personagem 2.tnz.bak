@@ -680,7 +680,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='17'/><level id='11'/><level id='34'/><level id='20'/><level id='25'/><level id='13'/><level id='12'/><level id='37'/><level id='4'/><level id='22'/><level id='5'/><level id='21'/><level id='36'/><level id='10'/><level id='14'/><level id='1'/><level id='19'/><level id='40'/><level id='32'/><level id='23'/><level id='33'/><level id='7'/><level id='9'/><level id='8'/><level id='3'/><level id='16'/><level id='27'/><level id='28'/><level id='30'/><level id='35'/><level id='18'/><level id='2'/><level id='29'/><level id='26'/><level id='31'/><level id='39'/><level id='6'/><level id='15'/><level id='24'/><paletteLevel id='38'/>
+        <level id='13'/><level id='24'/><level id='26'/><level id='15'/><level id='27'/><level id='9'/><level id='25'/><level id='4'/><level id='12'/><level id='11'/><level id='1'/><level id='3'/><level id='5'/><level id='7'/><level id='8'/><level id='17'/><level id='19'/><level id='21'/><level id='18'/><level id='2'/><level id='28'/><level id='29'/><level id='30'/><level id='14'/><level id='22'/><level id='31'/><level id='6'/><level id='10'/><level id='23'/><level id='16'/><level id='20'/><level id='32'/><level id='33'/><level id='35'/><level id='40'/><level id='34'/><level id='36'/><level id='37'/><level id='39'/><paletteLevel id='38'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -2254,28 +2254,40 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='44'/>
-        </fxnode>
-        <fxnode>
           <Toonz_columnFx id='46'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='50'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='60'/>
+          <Toonz_columnFx id='58'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='62'/>
+          <Toonz_columnFx id='64'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='44'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='66'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='70'/>
+          <Toonz_columnFx id='68'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='72'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='62'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='48'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='42'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='52'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='54'/>
@@ -2284,22 +2296,10 @@
           <Toonz_columnFx id='56'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='58'/>
+          <Toonz_columnFx id='60'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='52'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='64'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='72'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='68'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='42'/>
+          <Toonz_columnFx id='70'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -2372,6 +2372,5 @@
     "| #6   13 Jul 22   20:25   DESKTOP-1C8DValdecir        |"
     "| #7   13 Jul 22   21:41   DESKTOP-1C8DValdecir        |"
     "| #8   13 Jul 22   22:06   DESKTOP-1C8DValdecir        |"
-    "| #9   13 Jul 22   22:20   DESKTOP-1C8DValdecir        |"
   </history>
   </tnz>
