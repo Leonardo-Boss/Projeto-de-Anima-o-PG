@@ -510,7 +510,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='13'/><level id='14'/><level id='6'/><level id='2'/><level id='3'/><level id='11'/><level id='4'/><level id='5'/><level id='1'/><level id='7'/><level id='8'/><level id='9'/><level id='12'/><level id='15'/><level id='16'/><level id='17'/><level id='10'/><level id='19'/><level id='18'/>
+        <level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -1448,19 +1448,16 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='41'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='37'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='39'/>
-        </fxnode>
-        <fxnode>
           <Toonz_columnFx id='23'/>
         </fxnode>
         <fxnode>
+          <Toonz_columnFx id='21'/>
+        </fxnode>
+        <fxnode>
           <Toonz_columnFx id='25'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='27'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='29'/>
@@ -1469,16 +1466,19 @@
           <Toonz_columnFx id='31'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='21'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='27'/>
+          <Toonz_columnFx id='33'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='35'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='33'/>
+          <Toonz_columnFx id='37'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='39'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='41'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -1544,5 +1544,6 @@
   <history>
     "| #    DATE:       Time:   MACHINE:    USER:           |"
     "| #1   13 Jul 22   22:42               eppi            |"
+    "| #2   14 Jul 22   00:37               eppi            |"
   </history>
   </tnz>
