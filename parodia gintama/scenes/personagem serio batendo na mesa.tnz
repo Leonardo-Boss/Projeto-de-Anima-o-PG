@@ -358,7 +358,7 @@
         A 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/A.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/A.pli"
         </path>
         
       </level>
@@ -366,7 +366,7 @@
         B 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/B.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/B.pli"
         </path>
         
       </level>
@@ -374,7 +374,7 @@
         head 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/head.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/head.pli"
         </path>
         
       </level>
@@ -382,7 +382,7 @@
         hair 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/hair.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/hair.pli"
         </path>
         
       </level>
@@ -390,7 +390,7 @@
         body 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/body.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/body.pli"
         </path>
         
       </level>
@@ -398,7 +398,7 @@
         R_arm 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_arm.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_arm.pli"
         </path>
         
       </level>
@@ -406,7 +406,7 @@
         R_forearm 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_forearm.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_forearm.pli"
         </path>
         
       </level>
@@ -414,7 +414,7 @@
         C 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/C.tlv"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/C.tlv"
         </path>
         
       </level>
@@ -422,7 +422,7 @@
         R_thigh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_thigh.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_thigh.pli"
         </path>
         
       </level>
@@ -430,7 +430,7 @@
         R_leg 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_leg.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_leg.pli"
         </path>
         
       </level>
@@ -438,7 +438,7 @@
         L_leg 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_leg.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_leg.pli"
         </path>
         
       </level>
@@ -446,7 +446,7 @@
         L_thigh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_thigh.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_thigh.pli"
         </path>
         
       </level>
@@ -454,7 +454,7 @@
         L_arm 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_arm.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_arm.pli"
         </path>
         
       </level>
@@ -462,7 +462,7 @@
         L_forearm 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_forearm.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_forearm.pli"
         </path>
         
       </level>
@@ -470,7 +470,7 @@
         R_foot 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_foot.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_foot.pli"
         </path>
         
       </level>
@@ -478,7 +478,7 @@
         L_foot 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_foot.pli"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_foot.pli"
         </path>
         
       </level>
@@ -486,7 +486,7 @@
         L_arm_mesh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_arm..mesh"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_arm..mesh"
         </path>
         
       </level>
@@ -494,7 +494,7 @@
         L_forearm_mesh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_forearm..mesh"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_forearm..mesh"
         </path>
         
       </level>
@@ -502,7 +502,7 @@
         L_leg_mesh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_leg..mesh"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/L_leg..mesh"
         </path>
         
       </level>
@@ -510,7 +510,7 @@
         R_leg_mesh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_leg..mesh"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_leg..mesh"
         </path>
         
       </level>
@@ -518,7 +518,7 @@
         R_forearm_mesh 
         <info dpiType="image"/>
         <path>
-          "//home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_forearm..mesh"
+          "\\\\home/eppi/.config/OpenToonz/stuff/projects/gintama parodia/drawings/R_forearm..mesh"
         </path>
         
       </level>
@@ -2410,37 +2410,22 @@
           <fxnodes>
             <terminal>
               <fxnode>
-                <Toonz_columnFx id='91'/>
+                <Toonz_columnFx id='67'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='75'/>
+                <Toonz_columnFx id='65'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='83'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='89'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='85'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='93'/>
+                <Toonz_columnFx id='69'/>
               </fxnode>
               <fxnode>
                 <Toonz_columnFx id='71'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='67'/>
-              </fxnode>
-              <fxnode>
                 <Toonz_columnFx id='73'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='87'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='69'/>
+                <Toonz_columnFx id='75'/>
               </fxnode>
               <fxnode>
                 <Toonz_columnFx id='77'/>
@@ -2449,13 +2434,28 @@
                 <Toonz_columnFx id='79'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='95'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='65'/>
-              </fxnode>
-              <fxnode>
                 <Toonz_columnFx id='81'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='83'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='85'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='87'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='89'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='91'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='93'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='95'/>
               </fxnode>
               </terminal>
             <xsheet>
@@ -4131,37 +4131,43 @@
           <fxnodes>
             <terminal>
               <fxnode>
+                <Toonz_columnFx id='108'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='106'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='110'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='112'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='114'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='116'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='118'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='120'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='122'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='124'/>
+              </fxnode>
+              <fxnode>
                 <Toonz_columnFx id='126'/>
               </fxnode>
               <fxnode>
                 <Toonz_columnFx id='128'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='108'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='122'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='116'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='114'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='120'/>
-              </fxnode>
-              <fxnode>
                 <Toonz_columnFx id='130'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='136'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='106'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='124'/>
               </fxnode>
               <fxnode>
                 <Toonz_columnFx id='132'/>
@@ -4170,13 +4176,7 @@
                 <Toonz_columnFx id='134'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='118'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='110'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='112'/>
+                <Toonz_columnFx id='136'/>
               </fxnode>
               </terminal>
             <xsheet>
@@ -4266,16 +4266,24 @@
         </path>
         
       </soundLevel>
+      <level id='141'>
+        background 
+        <info dpiType="image"/>
+        <path>
+          "+extras/background..tif"
+        </path>
+        
+      </level>
       
     </levels>
     <folder name="Cast" type="default">
       <folder name="personagem 2">
         <levels>
-          <paletteLevel id='59'/><level id='98'/><level id='57'/><level id='101'/><level id='102'/><level id='61'/><level id='60'/><level id='99'/><paletteLevel id='100'/><level id='58'/>
+          <paletteLevel id='59'/><level id='57'/><level id='58'/><level id='60'/><level id='61'/><level id='98'/><level id='99'/><paletteLevel id='100'/><level id='101'/><level id='102'/>
         </levels>
         </folder>
       <levels>
-        <level id='37'/><level id='48'/><level id='12'/><level id='56'/><level id='16'/><level id='20'/><level id='19'/><level id='18'/><level id='8'/><level id='9'/><level id='43'/><level id='44'/><childLevel id='62'/><level id='17'/><level id='1'/><level id='21'/><paletteLevel id='33'/><level id='13'/><level id='4'/><level id='5'/><level id='45'/><level id='46'/><level id='47'/><level id='10'/><level id='11'/><level id='35'/><level id='15'/><level id='2'/><level id='3'/><level id='22'/><childLevel id='103'/><level id='51'/><level id='24'/><level id='36'/><level id='52'/><level id='53'/><level id='49'/><level id='50'/><level id='23'/><level id='14'/><level id='41'/><level id='40'/><level id='54'/><level id='55'/><level id='25'/><level id='26'/><level id='42'/><level id='39'/><level id='38'/><level id='6'/><level id='7'/><level id='29'/><level id='34'/><level id='31'/><level id='27'/><level id='28'/><level id='30'/><level id='32'/>
+        <childLevel id='62'/><paletteLevel id='33'/><level id='1'/><childLevel id='103'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><level id='20'/><level id='21'/><level id='22'/><level id='23'/><level id='24'/><level id='25'/><level id='26'/><level id='27'/><level id='28'/><level id='29'/><level id='30'/><level id='31'/><level id='32'/><level id='34'/><level id='35'/><level id='36'/><level id='37'/><level id='38'/><level id='39'/><level id='40'/><level id='41'/><level id='42'/><level id='43'/><level id='44'/><level id='45'/><level id='46'/><level id='47'/><level id='48'/><level id='49'/><level id='50'/><level id='51'/><level id='52'/><level id='53'/><level id='54'/><level id='55'/><level id='56'/><level id='141'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -4286,7 +4294,42 @@
     </levelSet>
   <xsheet>
     <columns>
-      <levelColumn id='141'>
+      <levelColumn id='142'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 223 <level id='141'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='143'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='144'>
         
         <status>
           0 
@@ -4297,7 +4340,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='142'>
+          <Toonz_columnFx id='145'>
             
             <params>
               </params>
@@ -4324,7 +4367,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='143'>
+      <levelColumn id='146'>
         
         <status>
           0 
@@ -4335,7 +4378,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='144'>
+          <Toonz_columnFx id='147'>
             
             <params>
               </params>
@@ -4362,7 +4405,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='145'>
+      <levelColumn id='148'>
         
         <status>
           0 
@@ -4373,7 +4416,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='146'>
+          <Toonz_columnFx id='149'>
             
             <params>
               </params>
@@ -4400,7 +4443,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='147'>
+      <levelColumn id='150'>
         
         <status>
           0 
@@ -4411,7 +4454,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='148'>
+          <Toonz_columnFx id='151'>
             
             <params>
               </params>
@@ -4438,7 +4481,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='149'>
+      <levelColumn id='152'>
         
         <status>
           0 
@@ -4449,7 +4492,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='150'>
+          <Toonz_columnFx id='153'>
             
             <params>
               </params>
@@ -4476,7 +4519,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='151'>
+      <levelColumn id='154'>
         
         <status>
           0 
@@ -4487,7 +4530,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='152'>
+          <Toonz_columnFx id='155'>
             
             <params>
               </params>
@@ -4514,7 +4557,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='153'>
+      <levelColumn id='156'>
         
         <status>
           0 
@@ -4525,7 +4568,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='154'>
+          <Toonz_columnFx id='157'>
             
             <params>
               </params>
@@ -4552,7 +4595,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='155'>
+      <levelColumn id='158'>
         
         <status>
           0 
@@ -4563,7 +4606,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='156'>
+          <Toonz_columnFx id='159'>
             
             <params>
               </params>
@@ -4590,7 +4633,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='157'>
+      <levelColumn id='160'>
         
         <status>
           0 
@@ -4601,7 +4644,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='158'>
+          <Toonz_columnFx id='161'>
             
             <params>
               </params>
@@ -4628,7 +4671,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='159'>
+      <levelColumn id='162'>
         
         <status>
           0 
@@ -4639,7 +4682,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='160'>
+          <Toonz_columnFx id='163'>
             
             <params>
               </params>
@@ -4666,7 +4709,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='161'>
+      <levelColumn id='164'>
         
         <status>
           0 
@@ -4677,7 +4720,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='162'>
+          <Toonz_columnFx id='165'>
             
             <params>
               </params>
@@ -4704,7 +4747,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='163'>
+      <levelColumn id='166'>
         
         <status>
           0 
@@ -4715,7 +4758,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='164'>
+          <Toonz_columnFx id='167'>
             
             <params>
               </params>
@@ -4742,7 +4785,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='165'>
+      <levelColumn id='168'>
         
         <status>
           0 
@@ -4753,7 +4796,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='166'>
+          <Toonz_columnFx id='169'>
             
             <params>
               </params>
@@ -4780,7 +4823,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='167'>
+      <levelColumn id='170'>
         
         <status>
           0 
@@ -4941,7 +4984,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='168'>
+          <Toonz_columnFx id='171'>
             
             <params>
               </params>
@@ -4968,7 +5011,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='169'>
+      <levelColumn id='172'>
         
         <status>
           0 
@@ -4979,7 +5022,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='170'>
+          <Toonz_columnFx id='173'>
             
             <params>
               </params>
@@ -5006,7 +5049,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='171'>
+      <levelColumn id='174'>
         
         <status>
           0 
@@ -5017,7 +5060,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='172'>
+          <Toonz_columnFx id='175'>
             
             <params>
               </params>
@@ -5044,7 +5087,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='173'>
+      <levelColumn id='176'>
         
         <status>
           0 
@@ -5055,7 +5098,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='174'>
+          <Toonz_columnFx id='177'>
             
             <params>
               </params>
@@ -5082,14 +5125,14 @@
         </fx>
         
       </levelColumn>
-      <soundColumn id='175'>
+      <soundColumn id='178'>
         0.4 1 
         <SoundCells>
           0 0 14 <soundLevel id='139'/>
         </SoundCells>
         0 
       </soundColumn>
-      <soundColumn id='176'>
+      <soundColumn id='179'>
         0.4 1 
         <SoundCells>
           0 0 10 <soundLevel id='140'/>
@@ -5203,11 +5246,67 @@
           </default>
           </sc>
         <nodePos>
-          24141.5 25457.5 
+          1.234e+09 5.678e+09 
         </nodePos>
         </pegbar>
       <pegbar id="Col2">
-        <parent handle="B" id="Col8" parentHandle="B">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -5.73028 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -1.06663 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          <keyframes>
+            <L>
+              0 1.92921 
+            </L>
+            </keyframes>
+          </sc>
+        <nodePos>
+          24181.9 25291 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col3">
+        <parent handle="B" id="Col9" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -5428,8 +5527,8 @@
           24517.5 25346.5 
         </nodePos>
         </pegbar>
-      <pegbar id="Col3">
-        <parent handle="B" id="Col2" parentHandle="B">
+      <pegbar id="Col4">
+        <parent handle="B" id="Col3" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -5650,8 +5749,8 @@
           24680.5 25365.5 
         </nodePos>
         </pegbar>
-      <pegbar id="Col4">
-        <parent handle="B" id="Col3" parentHandle="B">
+      <pegbar id="Col5">
+        <parent handle="B" id="Col4" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -5872,8 +5971,8 @@
           24841.5 25398.5 
         </nodePos>
         </pegbar>
-      <pegbar id="Col5">
-        <parent handle="B" id="Col8" parentHandle="B">
+      <pegbar id="Col6">
+        <parent handle="B" id="Col9" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -6268,8 +6367,8 @@
           24520.8 25272.5 
         </nodePos>
         </pegbar>
-      <pegbar id="Col6">
-        <parent handle="B" id="Col5" parentHandle="B">
+      <pegbar id="Col7">
+        <parent handle="B" id="Col6" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -6664,8 +6763,8 @@
           24688.6 25279.3 
         </nodePos>
         </pegbar>
-      <pegbar id="Col7">
-        <parent handle="B" id="Col6" parentHandle="B">
+      <pegbar id="Col8">
+        <parent handle="B" id="Col7" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -7042,8 +7141,8 @@
           24840.5 25313.5 
         </nodePos>
         </pegbar>
-      <pegbar id="Col8">
-        <parent handle="B" id="Table" parentHandle="B">
+      <pegbar id="Col9">
+        <parent handle="B" id="Col2" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -7330,8 +7429,8 @@
           24315 25216.5 
         </nodePos>
         </pegbar>
-      <pegbar id="Col9">
-        <parent handle="B" id="Col8" parentHandle="B">
+      <pegbar id="Col10">
+        <parent handle="B" id="Col9" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -7624,8 +7723,8 @@
           24521.9 25504.9 
         </nodePos>
         </pegbar>
-      <pegbar id="Col10">
-        <parent handle="B" id="Col11" parentHandle="B">
+      <pegbar id="Col11">
+        <parent handle="B" id="Col12" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -7846,8 +7945,8 @@
           24840 25591.5 
         </nodePos>
         </pegbar>
-      <pegbar id="Col11">
-        <parent handle="B" id="Col9" parentHandle="B">
+      <pegbar id="Col12">
+        <parent handle="B" id="Col10" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -8074,8 +8173,8 @@
           24689.4 25528.8 
         </nodePos>
         </pegbar>
-      <pegbar id="Col12">
-        <parent handle="B" id="Col8" parentHandle="B">
+      <pegbar id="Col13">
+        <parent handle="B" id="Col9" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -8093,6 +8192,12 @@
           <keyframes>
             <L>
               41 -1.87996 
+            </L>
+            <L>
+              <prev>
+                -2.04226 
+              </prev>
+              53 -2.04226 
             </L>
             <L>
               <prev>
@@ -8121,6 +8226,12 @@
           <keyframes>
             <L>
               41 0.323118 
+            </L>
+            <L>
+              <prev>
+                0.151826 
+              </prev>
+              53 0.151826 
             </L>
             <L>
               <prev>
@@ -8294,12 +8405,6 @@
               <prev>
                 48.638 
               </prev>
-              74 48.638 
-            </L>
-            <L>
-              <prev>
-                48.638 
-              </prev>
               101 48.638 
             </L>
             <L>
@@ -8392,8 +8497,8 @@
           24458.3 25092.7 
         </nodePos>
         </pegbar>
-      <pegbar id="Col13">
-        <parent handle="B" id="Col12" parentHandle="B">
+      <pegbar id="Col14">
+        <parent handle="B" id="Col13" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -8596,8 +8701,8 @@
           24686.2 25018.4 
         </nodePos>
         </pegbar>
-      <pegbar id="Col14">
-        <parent handle="B" id="Col12" parentHandle="B">
+      <pegbar id="Col15">
+        <parent handle="B" id="Col13" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -8652,8 +8757,8 @@
           24576.2 25199 
         </nodePos>
         </pegbar>
-      <pegbar id="Col15">
-        <parent handle="B" id="Col8" parentHandle="B">
+      <pegbar id="Col16">
+        <parent handle="B" id="Col9" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -9054,8 +9159,8 @@
           24523.6 25431.4 
         </nodePos>
         </pegbar>
-      <pegbar id="Col16">
-        <parent handle="B" id="Col15" parentHandle="B">
+      <pegbar id="Col17">
+        <parent handle="B" id="Col16" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -9456,8 +9561,8 @@
           24691.8 25460 
         </nodePos>
         </pegbar>
-      <pegbar id="Col17">
-        <parent handle="B" id="Col16" parentHandle="B">
+      <pegbar id="Col18">
+        <parent handle="B" id="Col17" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -9858,7 +9963,7 @@
           24845.1 25499.6 
         </nodePos>
         </pegbar>
-      <pegbar id="Col18">
+      <pegbar id="Col19">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -9889,7 +9994,7 @@
           1.234e+09 5.678e+09 
         </nodePos>
         </pegbar>
-      <pegbar id="Col19">
+      <pegbar id="Col20">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -9927,59 +10032,62 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='142'/>
+          <Toonz_columnFx id='145'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='146'/>
+          <Toonz_columnFx id='147'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='154'/>
+          <Toonz_columnFx id='149'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='156'/>
+          <Toonz_columnFx id='151'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='158'/>
+          <Toonz_columnFx id='153'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='160'/>
+          <Toonz_columnFx id='155'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='148'/>
+          <Toonz_columnFx id='157'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='150'/>
+          <Toonz_columnFx id='159'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='152'/>
+          <Toonz_columnFx id='161'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='170'/>
+          <Toonz_columnFx id='163'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='166'/>
+          <Toonz_columnFx id='165'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='162'/>
+          <Toonz_columnFx id='167'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='172'/>
+          <Toonz_columnFx id='169'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='174'/>
+          <Toonz_columnFx id='171'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='164'/>
+          <Toonz_columnFx id='173'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='144'/>
+          <Toonz_columnFx id='175'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='168'/>
+          <Toonz_columnFx id='177'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='143'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='177'>
+        <Toonz_xsheetFx id='180'>
           
           <params>
             </params>
@@ -10005,13 +10113,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='178'>
+        <Toonz_outputFx id='181'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='177'/>
+              <Toonz_xsheetFx id='180'/>
             </source>
             </ports>
           <dagNodePos>
@@ -10050,5 +10158,6 @@
     "| #8   13 Jul 22   21:40   DESKTOP-1C8DValdecir        |"
     "| #9   13 Jul 22   22:03   DESKTOP-1C8DValdecir        |"
     "| #10  14 Jul 22   20:47               eppi            |"
+    "| #11  14 Jul 22   21:36               eppi            |"
   </history>
   </tnz>
